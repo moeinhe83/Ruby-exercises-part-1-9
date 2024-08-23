@@ -4,7 +4,7 @@ Question Number ===> 9
 
 Programming Language ===> Ruby
 
-Program Description ===> Ninth Exercise
+Program Description ===> The Ninth Exercise
 
 Example ===> Write A Program That Takes A String And A Word From The User And Checks Whether The Desired Word Is Present In The String Or Not
 
